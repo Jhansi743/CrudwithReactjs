@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Jhansi",
+      "email": "bhupathi.jhansi@healthonus.io",
+      "mobile": "67867667678",
+      "landline": "46567567",
+      "website": "http://localhost:3000",
+      "address": "sdfgdfg"
+    },
+    {
+      "name": "sushma",
+      "email": "sushma@gmail.com",
+      "mobile": "8734675367",
+      "landline": "783465783465",
+      "website": "https.www.com.io",
+      "address": "madhapur,kavurihills,road no 7",
+      "id": 2
+    },
+    {
+      "name": "Jhansi bhupathi",
+      "email": "jhansi@gmail.com",
+      "mobile": "54656756756",
+      "landline": "5657657657",
+      "website": "http://localhost:3000",
+      "address": "dstghjjm,",
+      "id": 3
+    }
+  ]
+}
