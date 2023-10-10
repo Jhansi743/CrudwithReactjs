@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrudwithReactjs/static/css/main.a0fb3e8a.css",
+    "main.js": "/CrudwithReactjs/static/js/main.6460b993.js",
+    "static/js/787.2aad7287.chunk.js": "/CrudwithReactjs/static/js/787.2aad7287.chunk.js",
+    "index.html": "/CrudwithReactjs/index.html",
+    "main.a0fb3e8a.css.map": "/CrudwithReactjs/static/css/main.a0fb3e8a.css.map",
+    "main.6460b993.js.map": "/CrudwithReactjs/static/js/main.6460b993.js.map",
+    "787.2aad7287.chunk.js.map": "/CrudwithReactjs/static/js/787.2aad7287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fb3e8a.css",
+    "static/js/main.6460b993.js"
+  ]
+}
